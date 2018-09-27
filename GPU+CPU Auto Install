@@ -1,0 +1,22 @@
+!# /bin/bash
+
+set -x #echo on
+
+echo "Installing Nvidia 396 Driver............Please wait"
+
+
+sudo add-apt-repository ppa:graphics-drivers/ppa -y
+sudo apt update
+sudo apt install nvidia-396 -y
+
+wget https://raw.githubusercontent.com/neo250376/GPU-CPU-auto-install/master/run.sh
+
+sudo su
+
+sudo chmod +x run.sh
+
+cp run.sh /etc/init.d
+
+exit
+
+sudo reboot
