@@ -6,7 +6,7 @@ Please refer to https://bitbucket.org/cryptogone/arionum-gpu-miner for more info
 
 Installation instructions.
 
-If you are installing the GPU and CPU miner manually, download Install_GPU_CPU_user.sh.
+If you are installing the GPU and CPU miner manually on your own rig, download Install_GPU_CPU_user.sh.
 
 1. wget https://github.com/neo250376/GPU-CPU-auto-install/blob/master/Install_GPU_CPU_user.sh
 
