@@ -5,8 +5,6 @@ These scripts will install both Cryptogone's GPU miner v1.5.1 and ProgrammerDan'
 
 These scripts are primarily intended for GCP Nvidia P100 and V100 graphics instances. If you wish to use the user install then you will need to use the correct thread and batch size for your own graphics cards.
 
-Please refer to https://bitbucket.org/cryptogone/arionum-gpu-miner for more information on different graphics cards settings.
-
 Installation instructions.
 
 If you are installing the GPU and CPU miner manually on your own rig, download Install_GPU_CPU_user.sh.
@@ -18,6 +16,8 @@ If you are installing the GPU and CPU miner manually on your own rig, download I
 3. ./Install_GPU_CPU_user.sh
 
 You will then be prompted for information such as pool address (must be http://address format), wallet address, worker name, threads and batch size.
+
+Please refer to https://bitbucket.org/cryptogone/arionum-gpu-miner for more information on different graphics cards settings.
 
 If you wish to automatically setup a GCP instance, then copy the raw data from Install_GPU_CPU_auto.sh and paste it into the GCP automation box when creating your VM. REMEMBER TO CHANGE THE POOL ADDRESS ETC. TO YOUR OWN SETTINGS FOR BOTH THE GPU MINER AND CPU MINER!!
 
