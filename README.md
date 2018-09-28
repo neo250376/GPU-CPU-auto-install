@@ -1,7 +1,7 @@
 # Cryptogone/ProgrammerDan's Miner Auto Install Scripts
 (Thanks to Cryptogone for his assistance)
 
-If you would like to use this on Ubuntu 18.04 please use the file Install_GPU_CPU_auto18.04.sh
+If you would like to use this on Ubuntu 18.04 please use the file Install_GPU_CPU_auto18.04.sh and copy past the contents into the GCP automation box.
 
 These scripts will install both Cryptogone's GPU miner v1.5.1 and ProgrammerDan's Java miner v0.2.6.1
 
