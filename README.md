@@ -8,11 +8,11 @@ Installation instructions.
 
 If you are installing the GPU and CPU miner manually, download Install_GPU_CPU_user.sh.
 
-wget https://github.com/neo250376/GPU-CPU-auto-install/blob/master/Install_GPU_CPU_user.sh
+1. wget https://github.com/neo250376/GPU-CPU-auto-install/blob/master/Install_GPU_CPU_user.sh
 
-sudo chmod +x Install_GPU_CPU_user.sh
+2. sudo chmod +x Install_GPU_CPU_user.sh
 
-./Install_GPU_CPU_user.sh
+3. ./Install_GPU_CPU_user.sh
 
 You will then be prompted for information such as pool address (must be http://address format), wallet address, worker name, threads and batch size.
 
