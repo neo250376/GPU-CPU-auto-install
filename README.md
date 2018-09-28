@@ -8,6 +8,8 @@ Installation instructions.
 
 If you are installing the GPU and CPU miner manually, download Install_GPU_CPU_user.sh.
 
+wget https://github.com/neo250376/GPU-CPU-auto-install/blob/master/Install_GPU_CPU_user.sh
+
 sudo chmod +x Install_GPU_CPU_user.sh
 
 ./Install_GPU_CPU_user.sh
