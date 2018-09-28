@@ -1,6 +1,8 @@
 # Cryptogone/ProgrammerDan's Miner Auto Install Scripts
 (Thanks to Cryptogone for his assistance)
 
+These scripts will install both Cryptogone's GPU miner v1.5.1 and ProgrammerDan's Java miner v0.2.6.1
+
 These scripts are primarily intended for GCP Nvidia P100 and V100 graphics instances. If you wish to use the user install then you will need to use the correct thread and batch size for your own graphics cards.
 
 Please refer to https://bitbucket.org/cryptogone/arionum-gpu-miner for more information on different graphics cards settings.
