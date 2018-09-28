@@ -1,4 +1,5 @@
-# GPU-CPU-auto-install (Thanks to Cryptogone for his assistance)
+# Cryptogone and ProgrammerDan's Miner Install
+(Thanks to Cryptogone for his assistance)
 
 These scripts are primarily intended for GCP Nvidia P100 and V100 graphics instances. If you wish to use the user install then you will need to use the correct thread and batch size for your own graphics cards.
 
