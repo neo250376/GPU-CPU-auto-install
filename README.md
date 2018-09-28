@@ -8,6 +8,8 @@ sudo chmod +x Install_GPU+CPU_user.sh
 
 ./Install_GPU+CPU_user.sh
 
+You will then be prompted for information such as pool address (must be http://address format), wallet address, worker name, threads and batch size
+
 If you wish to automatically setup a GCP instance, then copy the raw data from Install_GPU+CPU_auto.sh and paste it into the GCP automation box when creating your VM.
 
 After installing, whether using your own computer or a VM you can access the GPU miner by using the following commands -
