@@ -18,7 +18,7 @@ You will then be prompted for information such as pool address (must be http://a
 
 If you wish to automatically setup a GCP instance, then copy the raw data from Install_GPU_CPU_auto.sh and paste it into the GCP automation box when creating your VM. REMEMBER TO CHANGE THE POOL ADDRESS ETC. TO YOUR OWN SETTINGS!!
 
-After installing, whether using your own computer or a VM you can access the GPU miner by using the following commands -
+After installing, whether using your own computer or a VM you can access the GPU or CPU miner by using the following commands -
 
 tmux attach -t GPU (you may need sudo) - this will open tmux with the GPU miner showing.
 tmux attach -t CPU (you may need sudo) - this will open tmux with the CPU miner showing.
