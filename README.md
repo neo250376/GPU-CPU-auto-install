@@ -1,4 +1,4 @@
-# Cryptogone/ProgrammerDan's Miner Auto Install Scripts
+# Cryptogone/ProgrammerDan's Miner Auto Install Scripts - Important note - 20Gb instances at least are needed!!!
 (Thanks to Cryptogone for his assistance)
 
 If you would like to use this on Ubuntu 18.04 please use the file Install_GPU_CPU_auto18.04.sh and copy past the contents into the GCP automation box.
