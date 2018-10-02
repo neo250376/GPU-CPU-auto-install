@@ -5,7 +5,7 @@ If you would like to use this on Ubuntu 18.04 please use the file Install_GPU_CP
 
 These scripts will install both Cryptogone's GPU miner v1.5.1 and ProgrammerDan's Java miner v0.2.6.1
 
-These scripts are primarily intended for GCP Nvidia P100 and V100 graphics instances. If you wish to use the user install then you will need to use the correct thread and batch size for your own graphics cards. Due to "wget" speeds from Nvidia's servers, please allow up to 10 minutes for the script to install fully. Always check with "top" that "Java" and "arionum_miner" are running.
+These scripts are primarily intended for GCP Nvidia P100 and V100 graphics instances. If you wish to use the user install then you will need to use the correct thread and batch size for your own graphics cards. Due to "wget" speeds from Nvidia's servers, please allow up to 4-5 minutes for the script to install fully. Always check with "top" that "Java" and "arionum_miner" are running.
 
 Installation instructions.
 
