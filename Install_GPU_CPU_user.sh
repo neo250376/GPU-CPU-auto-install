@@ -43,9 +43,9 @@ echo " "
 
 sleep 3
 
-sudo add-apt-repository ppa:graphics-drivers/ppa -y
-sudo apt update
-sudo apt install nvidia-396 -y
+wget http://uk.download.nvidia.com/tesla/396.44/NVIDIA-Linux-x86_64-396.44.run
+sudo chmod +x NVIDIA-Linux-x86_64-396.44.run
+sudo ./NVIDIA-Linux-x86_64-396.44.run --silent
 
 # Start Nvidia driver and enable nvidia-smi
 
