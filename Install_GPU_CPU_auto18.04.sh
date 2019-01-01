@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Installation of Nvidia Driver v396
+# Installation of Nvidia Driver v390
 
 
 sleep 3
