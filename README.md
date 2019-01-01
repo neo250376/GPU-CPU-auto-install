@@ -31,4 +31,4 @@ tmux attach -t CPU (you may need sudo) - this will open tmux with the CPU miner 
 Press CTRL+B then "d" on it's own to exit tmux. Both miners will run in the background and you can disconnect from your VPS ssh connection and they will both continue running.
 
 If you wish to donate towards my research and testing please feel free to donate ARO to the following address -
-65AkkjBs2arwbikYVDh3B57aeehzpVp9Xw69tgewj8y8stx9FjajNhxR5Y3D9vzjYGgPGzuXbf7xSKn1C2i2DxFY
+4cAKS6DE81sT3PfNcQBQwPa2NsfGRSP6WGqiQepXPjfTjZhrAWa77uHPb4nQbppetMTAEt9GiTjX9bHpC589FX3E
