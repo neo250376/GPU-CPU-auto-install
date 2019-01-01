@@ -174,7 +174,7 @@ echo "${red}If you find that the miner does not run, then please edit the file '
 
 echo " "
 
-echo "${green}Installation complete....please support future development by donating to 65AkkjBs2arwbikYVDh3B57aeehzpVp9Xw69tgewj8y8stx9FjajNhxR5Y3D9vzjYGgPGzuXbf7xSKn1C2i2DxFY${reset}"
+echo "${green}Installation complete....please support future development by donating to 4cAKS6DE81sT3PfNcQBQwPa2NsfGRSP6WGqiQepXPjfTjZhrAWa77uHPb4nQbppetMTAEt9GiTjX9bHpC589FX3E${reset}"
 
 sleep 3
 
